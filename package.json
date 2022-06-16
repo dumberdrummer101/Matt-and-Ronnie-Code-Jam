@@ -4,6 +4,7 @@
   },
     "scripts": {
       "start": "npm run lite",
-      "lite": "lite-server"
+      "lite": "lite-server",
+      "restore packages": "npm install"
     }    
 }
